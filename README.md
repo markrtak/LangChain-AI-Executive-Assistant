@@ -21,8 +21,6 @@ Watch a short demo of the Agent Chat UI and Email Assistant in action:
 
 - Demo Video: https://drive.google.com/file/d/1_eeQoEk9V2hnQe8o-uzkdmwWnXGk1zCk/view?usp=drive_link
 
-Replace the link above with your own demo video URL if you have a different recording.
-
 ## Architecture overview
 
 ### Agent logic
